@@ -2,7 +2,8 @@
 
 *   **Name:** Muhammad Usman
 *   **GitHub:** [@MuhammadUsman0005](https://github.com/MuhammadUsman0005)
-*   **LinkedIn:** [@muhammad-usman-256364398](https://linkedin.com/in/muhammad-usman-256364398) 
+*   **LinkedIn:** [@muhammad-usman-256364398](https://linkedin.com/in/muhammad-usman-256364398)
+  
 Feel free to connect with me if you have any questions or want to collaborate!
 
 # 🚀 Data Science Foundations: NumPy & Pandas Masterclass
