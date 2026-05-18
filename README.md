@@ -1,3 +1,10 @@
+## 👤 Author
+
+*   **Name:** Muhammad Usman
+*   **GitHub:** [@MuhammadUsman0005](https://github.com/MuhammadUsman0005)
+*   **LinkedIn:** [@muhammad-usman-256364398](https://linkedin.com/in/muhammad-usman-256364398) 
+Feel free to connect with me if you have any questions or want to collaborate!
+
 # 🚀 Data Science Foundations: NumPy & Pandas Masterclass
 
 Welcome to the ultimate, production-ready learning resource for mastering data manipulation in Python. This repository is specifically structured for beginners to intermediate developers, self-learners, and data science aspirants who want to build a rock-solid foundation using real-world examples and clean, well-documented code.
