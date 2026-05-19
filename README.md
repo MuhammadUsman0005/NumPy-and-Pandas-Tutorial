@@ -56,6 +56,18 @@ Once you master matrices, we will transition into structural tabular data workfl
 *   Merging, joining, and parsing real-world `.csv` and `.json` data assets.
 
 ---
+### 📊 Practice Dataset Reference
+*File name: `ecommerce_sales_practice.csv` (500 records)*
+
+This repository includes a practical dataset simulating e-commerce store transactions across Pakistan. Use it to practice your Pandas extraction commands:
+*   **Order_ID:** Unique alphanumeric tracking key.
+*   **Date:** Transaction timestamp from Q1 2026.
+*   **City:** Major operational hub handling the order fulfillment.
+*   **Category:** Product vertical tracking items purchased.
+*   **Quantity:** Number of unit products purchased inside the ticket.
+*   **Unit_Price:** Individual item cost (*Contains 15 strategic `NaN` records for clean imputation practice!*).
+*   **Total_Revenue:** Calculated field matching `Quantity * Unit_Price`.
+*   **Payment_Method:** Checkout transactional routing portal used by the user client.
 
 
 ⭐ **If you find these tutorials helpful, please give this repository a star to support the project!**
