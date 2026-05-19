@@ -1,0 +1,501 @@
+Order_ID,Date,City,Category,Quantity,Unit_Price,Total_Revenue,Payment_Method
+ORD-20260001,2026-01-28,Faisalabad,Electronics,4,1019.65,4078.59,EasyPaisa
+ORD-20260002,2026-01-22,Lahore,Electronics,1,868.31,868.31,EasyPaisa
+ORD-20260003,2026-01-04,Islamabad,Home Appliances,5,371.94,1859.69,Cash on Delivery
+ORD-20260004,2026-02-26,Lahore,Books,5,41.47,207.33,Bank Transfer
+ORD-20260005,2026-02-05,Karachi,Home Appliances,5,436.36,2181.82,Cash on Delivery
+ORD-20260006,2026-02-13,Faisalabad,Fitness,2,296.19,592.37,Credit Card
+ORD-20260007,2026-03-08,Peshawar,Apparel,4,87.52,350.09,Cash on Delivery
+ORD-20260008,2026-01-01,Lahore,Home Appliances,1,175.28,175.28,Bank Transfer
+ORD-20260009,2026-02-26,Faisalabad,Apparel,3,93.55,280.64,Cash on Delivery
+ORD-20260010,2026-03-14,Karachi,Books,2,25.85,51.7,Cash on Delivery
+ORD-20260011,2026-03-08,Peshawar,Electronics,4,1038.36,4153.43,EasyPaisa
+ORD-20260012,2026-03-03,Islamabad,Apparel,1,107.66,107.66,EasyPaisa
+ORD-20260013,2026-02-18,Lahore,Apparel,3,75.53,226.6,Credit Card
+ORD-20260014,2026-03-10,Karachi,Electronics,4,885.82,3543.3,EasyPaisa
+ORD-20260015,2026-03-27,Peshawar,Apparel,2,85.95,171.9,Bank Transfer
+ORD-20260016,2026-03-12,Lahore,Home Appliances,4,312.8,1251.21,Bank Transfer
+ORD-20260017,2026-02-02,Lahore,Electronics,3,1143.24,3429.72,EasyPaisa
+ORD-20260018,2026-01-19,Lahore,Fitness,3,50.65,151.94,Credit Card
+ORD-20260019,2026-01-29,Islamabad,Electronics,4,306.36,1225.43,Cash on Delivery
+ORD-20260020,2026-02-02,Karachi,Fitness,5,195.24,976.2,Cash on Delivery
+ORD-20260021,2026-03-21,Lahore,Electronics,1,696.46,696.46,Cash on Delivery
+ORD-20260022,2026-01-04,Lahore,Apparel,2,56.44,112.87,Bank Transfer
+ORD-20260023,2026-01-16,Karachi,Electronics,4,,,Cash on Delivery
+ORD-20260024,2026-03-25,Karachi,Electronics,3,914.72,2744.17,EasyPaisa
+ORD-20260025,2026-02-03,Peshawar,Books,4,41.92,167.69,EasyPaisa
+ORD-20260026,2026-02-04,Peshawar,Home Appliances,3,564.77,1694.31,Credit Card
+ORD-20260027,2026-03-30,Islamabad,Books,5,37.09,185.44,Cash on Delivery
+ORD-20260028,2026-02-12,Lahore,Apparel,3,44.01,132.04,Cash on Delivery
+ORD-20260029,2026-03-26,Faisalabad,Electronics,5,732.65,3663.27,EasyPaisa
+ORD-20260030,2026-02-21,Peshawar,Electronics,1,888.18,888.18,Bank Transfer
+ORD-20260031,2026-02-09,Karachi,Apparel,1,99.78,99.78,Cash on Delivery
+ORD-20260032,2026-01-08,Lahore,Fitness,4,159.65,638.6,EasyPaisa
+ORD-20260033,2026-02-10,Faisalabad,Fitness,3,69.93,209.79,Cash on Delivery
+ORD-20260034,2026-03-04,Islamabad,Books,2,14.19,28.37,EasyPaisa
+ORD-20260035,2026-03-16,Lahore,Electronics,1,705.08,705.08,EasyPaisa
+ORD-20260036,2026-02-13,Lahore,Electronics,1,1089.0,1089.0,Cash on Delivery
+ORD-20260037,2026-02-04,Lahore,Home Appliances,4,557.36,2229.44,EasyPaisa
+ORD-20260038,2026-01-18,Faisalabad,Home Appliances,2,386.06,772.11,Bank Transfer
+ORD-20260039,2026-01-02,Islamabad,Fitness,5,194.42,972.09,Credit Card
+ORD-20260040,2026-01-16,Lahore,Apparel,2,107.55,215.1,Credit Card
+ORD-20260041,2026-01-18,Lahore,Electronics,1,789.53,789.53,Bank Transfer
+ORD-20260042,2026-01-30,Karachi,Electronics,4,806.91,3227.63,Credit Card
+ORD-20260043,2026-03-28,Lahore,Books,4,12.93,51.73,Cash on Delivery
+ORD-20260044,2026-01-04,Karachi,Fitness,3,175.59,526.76,Bank Transfer
+ORD-20260045,2026-03-18,Karachi,Home Appliances,3,529.96,1589.87,Cash on Delivery
+ORD-20260046,2026-02-22,Karachi,Electronics,5,736.88,3684.4,Cash on Delivery
+ORD-20260047,2026-03-18,Karachi,Home Appliances,3,254.61,763.84,Bank Transfer
+ORD-20260048,2026-03-05,Islamabad,Books,3,12.99,38.98,Bank Transfer
+ORD-20260049,2026-03-04,Karachi,Apparel,2,105.88,211.77,Credit Card
+ORD-20260050,2026-03-23,Lahore,Electronics,2,457.86,915.72,Cash on Delivery
+ORD-20260051,2026-01-26,Islamabad,Electronics,5,1121.55,5607.74,EasyPaisa
+ORD-20260052,2026-02-10,Faisalabad,Home Appliances,5,,,Credit Card
+ORD-20260053,2026-02-27,Lahore,Electronics,2,587.46,1174.92,Cash on Delivery
+ORD-20260054,2026-03-24,Islamabad,Apparel,1,110.4,110.4,Credit Card
+ORD-20260055,2026-03-28,Karachi,Fitness,2,208.62,417.24,EasyPaisa
+ORD-20260056,2026-01-25,Islamabad,Electronics,1,285.97,285.97,Credit Card
+ORD-20260057,2026-02-24,Faisalabad,Apparel,3,41.55,124.65,Cash on Delivery
+ORD-20260058,2026-03-24,Karachi,Home Appliances,4,469.58,1878.33,EasyPaisa
+ORD-20260059,2026-01-26,Faisalabad,Electronics,4,1054.03,4216.11,Credit Card
+ORD-20260060,2026-03-22,Karachi,Books,2,30.32,60.64,Credit Card
+ORD-20260061,2026-01-31,Islamabad,Electronics,3,388.8,1166.41,Bank Transfer
+ORD-20260062,2026-03-20,Karachi,Home Appliances,5,181.53,907.63,Credit Card
+ORD-20260063,2026-01-31,Karachi,Electronics,2,1196.06,2392.11,Bank Transfer
+ORD-20260064,2026-01-03,Karachi,Fitness,1,249.51,249.51,Credit Card
+ORD-20260065,2026-03-23,Faisalabad,Apparel,5,104.47,522.35,Credit Card
+ORD-20260066,2026-03-18,Islamabad,Electronics,1,891.41,891.41,EasyPaisa
+ORD-20260067,2026-01-01,Islamabad,Electronics,2,529.1,1058.21,Cash on Delivery
+ORD-20260068,2026-03-11,Islamabad,Electronics,2,349.05,698.11,Bank Transfer
+ORD-20260069,2026-03-10,Karachi,Electronics,4,1011.96,4047.83,Bank Transfer
+ORD-20260070,2026-02-20,Lahore,Books,4,29.41,117.63,Credit Card
+ORD-20260071,2026-02-11,Lahore,Electronics,2,293.98,587.95,EasyPaisa
+ORD-20260072,2026-02-11,Faisalabad,Fitness,5,248.13,1240.64,Credit Card
+ORD-20260073,2026-01-28,Lahore,Fitness,4,174.35,697.41,Credit Card
+ORD-20260074,2026-02-01,Islamabad,Home Appliances,2,451.04,902.09,Credit Card
+ORD-20260075,2026-01-18,Lahore,Electronics,2,258.4,516.8,EasyPaisa
+ORD-20260076,2026-02-05,Faisalabad,Apparel,2,84.87,169.74,Credit Card
+ORD-20260077,2026-03-26,Peshawar,Home Appliances,2,324.56,649.11,Cash on Delivery
+ORD-20260078,2026-03-12,Faisalabad,Apparel,4,69.36,277.43,Cash on Delivery
+ORD-20260079,2026-02-07,Karachi,Home Appliances,3,407.39,1222.17,EasyPaisa
+ORD-20260080,2026-01-04,Peshawar,Home Appliances,4,427.22,1708.88,EasyPaisa
+ORD-20260081,2026-03-31,Lahore,Electronics,2,1012.02,2024.05,Cash on Delivery
+ORD-20260082,2026-01-08,Lahore,Electronics,3,1027.84,3083.51,EasyPaisa
+ORD-20260083,2026-02-12,Lahore,Home Appliances,5,233.79,1168.97,Bank Transfer
+ORD-20260084,2026-01-03,Karachi,Apparel,4,117.92,471.67,EasyPaisa
+ORD-20260085,2026-03-29,Peshawar,Apparel,5,111.55,557.74,Credit Card
+ORD-20260086,2026-03-25,Islamabad,Electronics,3,417.2,1251.59,Credit Card
+ORD-20260087,2026-02-22,Karachi,Fitness,1,218.31,218.31,Bank Transfer
+ORD-20260088,2026-02-15,Islamabad,Electronics,1,625.43,625.43,EasyPaisa
+ORD-20260089,2026-01-28,Karachi,Books,4,,,Cash on Delivery
+ORD-20260090,2026-01-24,Lahore,Electronics,1,751.86,751.86,Cash on Delivery
+ORD-20260091,2026-03-14,Islamabad,Books,3,28.86,86.58,EasyPaisa
+ORD-20260092,2026-01-03,Lahore,Apparel,3,88.43,265.3,Bank Transfer
+ORD-20260093,2026-01-28,Karachi,Books,5,11.78,58.9,Bank Transfer
+ORD-20260094,2026-02-18,Islamabad,Home Appliances,1,316.53,316.53,Cash on Delivery
+ORD-20260095,2026-03-17,Lahore,Fitness,5,77.54,387.71,Credit Card
+ORD-20260096,2026-02-04,Lahore,Home Appliances,2,203.49,406.98,Bank Transfer
+ORD-20260097,2026-03-02,Karachi,Books,4,15.67,62.68,Cash on Delivery
+ORD-20260098,2026-02-06,Karachi,Apparel,3,,,Cash on Delivery
+ORD-20260099,2026-01-31,Faisalabad,Home Appliances,3,380.77,1142.3,EasyPaisa
+ORD-20260100,2026-03-26,Islamabad,Home Appliances,5,407.63,2038.17,EasyPaisa
+ORD-20260101,2026-02-20,Lahore,Electronics,4,897.36,3589.44,Credit Card
+ORD-20260102,2026-03-14,Islamabad,Books,3,10.95,32.86,Credit Card
+ORD-20260103,2026-02-08,Lahore,Apparel,4,96.65,386.62,EasyPaisa
+ORD-20260104,2026-01-04,Karachi,Fitness,1,261.17,261.17,Cash on Delivery
+ORD-20260105,2026-01-08,Islamabad,Apparel,1,61.8,61.8,Cash on Delivery
+ORD-20260106,2026-02-13,Lahore,Books,3,36.96,110.88,Bank Transfer
+ORD-20260107,2026-03-31,Lahore,Apparel,4,53.64,214.57,Cash on Delivery
+ORD-20260108,2026-03-24,Karachi,Apparel,3,54.94,164.81,Credit Card
+ORD-20260109,2026-01-10,Lahore,Home Appliances,4,292.78,1171.11,EasyPaisa
+ORD-20260110,2026-01-15,Karachi,Electronics,4,584.36,2337.45,Credit Card
+ORD-20260111,2026-02-14,Faisalabad,Apparel,5,99.8,499.02,Cash on Delivery
+ORD-20260112,2026-03-24,Lahore,Books,4,39.62,158.49,Credit Card
+ORD-20260113,2026-03-10,Islamabad,Home Appliances,5,450.86,2254.28,Bank Transfer
+ORD-20260114,2026-01-22,Lahore,Fitness,2,132.79,265.58,Bank Transfer
+ORD-20260115,2026-03-10,Lahore,Fitness,3,290.12,870.36,Bank Transfer
+ORD-20260116,2026-03-10,Karachi,Electronics,5,443.24,2216.2,EasyPaisa
+ORD-20260117,2026-01-30,Karachi,Electronics,4,1088.12,4352.47,EasyPaisa
+ORD-20260118,2026-01-03,Islamabad,Home Appliances,3,532.3,1596.89,Cash on Delivery
+ORD-20260119,2026-03-04,Karachi,Apparel,2,95.94,191.89,Credit Card
+ORD-20260120,2026-01-03,Karachi,Books,1,43.38,43.38,Cash on Delivery
+ORD-20260121,2026-01-24,Faisalabad,Apparel,5,28.3,141.52,Cash on Delivery
+ORD-20260122,2026-01-02,Lahore,Electronics,3,1090.34,3271.01,Credit Card
+ORD-20260123,2026-02-15,Lahore,Electronics,5,,,EasyPaisa
+ORD-20260124,2026-01-22,Islamabad,Home Appliances,1,535.51,535.51,Credit Card
+ORD-20260125,2026-01-27,Karachi,Books,1,15.22,15.22,EasyPaisa
+ORD-20260126,2026-02-15,Lahore,Electronics,4,1030.42,4121.67,Credit Card
+ORD-20260127,2026-03-04,Karachi,Apparel,5,107.38,536.89,Bank Transfer
+ORD-20260128,2026-03-13,Islamabad,Home Appliances,4,278.7,1114.79,Bank Transfer
+ORD-20260129,2026-01-25,Karachi,Fitness,5,94.77,473.83,Cash on Delivery
+ORD-20260130,2026-03-02,Lahore,Electronics,4,988.43,3953.71,Cash on Delivery
+ORD-20260131,2026-03-05,Faisalabad,Apparel,1,94.25,94.25,EasyPaisa
+ORD-20260132,2026-01-05,Islamabad,Home Appliances,2,166.21,332.41,Cash on Delivery
+ORD-20260133,2026-02-26,Lahore,Electronics,2,870.56,1741.12,Cash on Delivery
+ORD-20260134,2026-01-12,Karachi,Home Appliances,2,344.9,689.79,Bank Transfer
+ORD-20260135,2026-01-31,Karachi,Electronics,3,468.73,1406.19,Cash on Delivery
+ORD-20260136,2026-01-09,Faisalabad,Apparel,1,57.47,57.47,EasyPaisa
+ORD-20260137,2026-01-23,Faisalabad,Home Appliances,5,516.84,2584.2,EasyPaisa
+ORD-20260138,2026-02-08,Faisalabad,Electronics,2,340.45,680.91,Credit Card
+ORD-20260139,2026-03-19,Lahore,Apparel,4,76.02,304.06,Cash on Delivery
+ORD-20260140,2026-02-09,Lahore,Apparel,3,67.29,201.87,Credit Card
+ORD-20260141,2026-03-16,Karachi,Electronics,2,674.31,1348.61,Bank Transfer
+ORD-20260142,2026-02-26,Peshawar,Electronics,1,279.17,279.17,Credit Card
+ORD-20260143,2026-03-26,Lahore,Books,5,11.07,55.35,Bank Transfer
+ORD-20260144,2026-02-13,Karachi,Apparel,5,37.03,185.14,EasyPaisa
+ORD-20260145,2026-03-02,Karachi,Apparel,3,115.77,347.3,Bank Transfer
+ORD-20260146,2026-01-18,Lahore,Apparel,2,98.36,196.72,Cash on Delivery
+ORD-20260147,2026-03-21,Islamabad,Apparel,2,52.55,105.1,Bank Transfer
+ORD-20260148,2026-02-22,Islamabad,Home Appliances,1,283.58,283.58,EasyPaisa
+ORD-20260149,2026-01-11,Karachi,Home Appliances,2,387.41,774.81,Credit Card
+ORD-20260150,2026-02-27,Faisalabad,Apparel,2,104.48,208.97,Cash on Delivery
+ORD-20260151,2026-01-30,Islamabad,Home Appliances,1,368.41,368.41,EasyPaisa
+ORD-20260152,2026-02-28,Peshawar,Apparel,1,38.98,38.98,Credit Card
+ORD-20260153,2026-03-07,Karachi,Apparel,5,110.71,553.54,EasyPaisa
+ORD-20260154,2026-02-04,Karachi,Apparel,2,50.4,100.8,Bank Transfer
+ORD-20260155,2026-01-12,Islamabad,Electronics,4,1013.53,4054.13,Bank Transfer
+ORD-20260156,2026-02-08,Faisalabad,Electronics,2,1162.49,2324.98,Credit Card
+ORD-20260157,2026-03-01,Karachi,Fitness,4,238.72,954.86,EasyPaisa
+ORD-20260158,2026-03-22,Karachi,Apparel,2,96.57,193.14,EasyPaisa
+ORD-20260159,2026-01-21,Karachi,Electronics,5,747.52,3737.61,Bank Transfer
+ORD-20260160,2026-02-01,Peshawar,Home Appliances,1,410.22,410.22,Credit Card
+ORD-20260161,2026-03-16,Peshawar,Books,2,27.57,55.15,EasyPaisa
+ORD-20260162,2026-01-05,Karachi,Apparel,5,28.77,143.86,Credit Card
+ORD-20260163,2026-03-03,Karachi,Apparel,5,32.56,162.79,Cash on Delivery
+ORD-20260164,2026-02-26,Lahore,Fitness,4,210.72,842.86,EasyPaisa
+ORD-20260165,2026-02-20,Karachi,Fitness,5,84.58,422.88,EasyPaisa
+ORD-20260166,2026-01-05,Peshawar,Books,3,26.45,79.36,EasyPaisa
+ORD-20260167,2026-03-19,Lahore,Apparel,4,116.62,466.46,Cash on Delivery
+ORD-20260168,2026-01-14,Karachi,Apparel,4,115.14,460.57,Bank Transfer
+ORD-20260169,2026-01-21,Lahore,Electronics,4,1138.71,4554.82,Credit Card
+ORD-20260170,2026-01-11,Karachi,Home Appliances,4,419.03,1676.11,Cash on Delivery
+ORD-20260171,2026-03-23,Islamabad,Electronics,2,592.66,1185.33,Credit Card
+ORD-20260172,2026-02-19,Faisalabad,Books,3,28.06,84.17,Bank Transfer
+ORD-20260173,2026-02-08,Islamabad,Books,4,30.84,123.36,EasyPaisa
+ORD-20260174,2026-02-23,Karachi,Apparel,2,63.36,126.72,Credit Card
+ORD-20260175,2026-03-10,Peshawar,Home Appliances,2,211.04,422.09,Cash on Delivery
+ORD-20260176,2026-01-30,Lahore,Home Appliances,3,186.01,558.04,Credit Card
+ORD-20260177,2026-01-12,Karachi,Electronics,4,355.11,1420.43,Bank Transfer
+ORD-20260178,2026-03-06,Karachi,Apparel,3,89.66,268.97,Cash on Delivery
+ORD-20260179,2026-02-26,Lahore,Apparel,4,95.36,381.46,Credit Card
+ORD-20260180,2026-02-27,Peshawar,Home Appliances,4,174.87,699.47,Bank Transfer
+ORD-20260181,2026-03-17,Karachi,Books,2,27.04,54.08,Bank Transfer
+ORD-20260182,2026-01-24,Islamabad,Home Appliances,5,275.5,1377.5,Credit Card
+ORD-20260183,2026-03-19,Karachi,Home Appliances,5,495.13,2475.66,Bank Transfer
+ORD-20260184,2026-03-16,Peshawar,Electronics,4,584.39,2337.55,Bank Transfer
+ORD-20260185,2026-01-31,Islamabad,Apparel,2,108.0,215.99,Cash on Delivery
+ORD-20260186,2026-01-19,Karachi,Apparel,3,46.28,138.85,EasyPaisa
+ORD-20260187,2026-02-11,Karachi,Home Appliances,3,224.9,674.7,Credit Card
+ORD-20260188,2026-03-11,Karachi,Books,1,39.06,39.06,Cash on Delivery
+ORD-20260189,2026-02-12,Karachi,Apparel,4,65.99,263.98,Cash on Delivery
+ORD-20260190,2026-01-16,Islamabad,Books,5,35.07,175.33,Cash on Delivery
+ORD-20260191,2026-03-23,Lahore,Apparel,2,90.68,181.37,Cash on Delivery
+ORD-20260192,2026-02-19,Lahore,Electronics,3,999.09,2997.27,Credit Card
+ORD-20260193,2026-02-14,Karachi,Electronics,1,883.72,883.72,EasyPaisa
+ORD-20260194,2026-01-02,Faisalabad,Electronics,5,1112.25,5561.25,EasyPaisa
+ORD-20260195,2026-02-12,Karachi,Apparel,4,36.95,147.79,Credit Card
+ORD-20260196,2026-01-15,Islamabad,Home Appliances,1,332.39,332.39,Cash on Delivery
+ORD-20260197,2026-03-28,Lahore,Books,4,12.16,48.63,Cash on Delivery
+ORD-20260198,2026-01-16,Faisalabad,Apparel,1,,,EasyPaisa
+ORD-20260199,2026-02-02,Faisalabad,Apparel,2,42.49,84.99,Bank Transfer
+ORD-20260200,2026-01-21,Lahore,Apparel,4,40.07,160.26,Cash on Delivery
+ORD-20260201,2026-03-02,Lahore,Apparel,1,49.04,49.04,Bank Transfer
+ORD-20260202,2026-01-27,Lahore,Electronics,1,1097.9,1097.9,Bank Transfer
+ORD-20260203,2026-03-22,Karachi,Home Appliances,5,518.38,2591.91,Credit Card
+ORD-20260204,2026-02-03,Islamabad,Electronics,5,701.88,3509.41,Cash on Delivery
+ORD-20260205,2026-03-15,Peshawar,Home Appliances,5,541.38,2706.89,Bank Transfer
+ORD-20260206,2026-02-16,Lahore,Home Appliances,1,522.53,522.53,Bank Transfer
+ORD-20260207,2026-01-10,Faisalabad,Apparel,3,47.77,143.32,Cash on Delivery
+ORD-20260208,2026-03-03,Karachi,Books,4,24.4,97.6,Bank Transfer
+ORD-20260209,2026-03-31,Karachi,Apparel,3,79.24,237.72,Credit Card
+ORD-20260210,2026-02-17,Faisalabad,Books,4,38.06,152.25,Cash on Delivery
+ORD-20260211,2026-01-02,Faisalabad,Home Appliances,1,,,EasyPaisa
+ORD-20260212,2026-01-21,Lahore,Electronics,4,,,Bank Transfer
+ORD-20260213,2026-02-14,Lahore,Apparel,3,46.22,138.66,Bank Transfer
+ORD-20260214,2026-03-14,Lahore,Electronics,3,1176.35,3529.04,EasyPaisa
+ORD-20260215,2026-03-10,Karachi,Apparel,5,56.89,284.47,Bank Transfer
+ORD-20260216,2026-02-18,Lahore,Electronics,4,250.06,1000.26,Cash on Delivery
+ORD-20260217,2026-01-13,Faisalabad,Electronics,4,859.94,3439.75,Credit Card
+ORD-20260218,2026-01-05,Lahore,Apparel,5,56.47,282.37,Credit Card
+ORD-20260219,2026-01-23,Peshawar,Home Appliances,4,481.94,1927.76,Bank Transfer
+ORD-20260220,2026-03-15,Karachi,Electronics,5,,,EasyPaisa
+ORD-20260221,2026-03-28,Islamabad,Home Appliances,5,223.3,1116.49,Bank Transfer
+ORD-20260222,2026-02-27,Lahore,Home Appliances,3,,,Credit Card
+ORD-20260223,2026-02-09,Faisalabad,Books,5,,,Cash on Delivery
+ORD-20260224,2026-03-06,Karachi,Apparel,1,41.61,41.61,EasyPaisa
+ORD-20260225,2026-03-01,Lahore,Fitness,2,94.82,189.64,Credit Card
+ORD-20260226,2026-03-18,Karachi,Fitness,4,62.12,248.48,EasyPaisa
+ORD-20260227,2026-03-08,Islamabad,Books,2,30.47,60.95,Bank Transfer
+ORD-20260228,2026-02-21,Karachi,Apparel,2,43.92,87.83,Cash on Delivery
+ORD-20260229,2026-02-11,Islamabad,Electronics,1,501.45,501.45,Credit Card
+ORD-20260230,2026-01-03,Peshawar,Electronics,3,723.14,2169.41,Cash on Delivery
+ORD-20260231,2026-03-30,Karachi,Fitness,5,109.25,546.23,Bank Transfer
+ORD-20260232,2026-03-15,Lahore,Electronics,2,989.07,1978.14,Credit Card
+ORD-20260233,2026-03-09,Karachi,Apparel,5,39.08,195.41,Bank Transfer
+ORD-20260234,2026-03-30,Peshawar,Books,1,44.13,44.13,Bank Transfer
+ORD-20260235,2026-03-11,Karachi,Electronics,1,1099.69,1099.69,Bank Transfer
+ORD-20260236,2026-02-16,Faisalabad,Electronics,1,614.87,614.87,Credit Card
+ORD-20260237,2026-02-17,Karachi,Electronics,2,465.99,931.98,Cash on Delivery
+ORD-20260238,2026-02-08,Karachi,Home Appliances,4,166.05,664.21,EasyPaisa
+ORD-20260239,2026-01-14,Peshawar,Home Appliances,2,334.95,669.89,Cash on Delivery
+ORD-20260240,2026-02-06,Karachi,Electronics,3,353.07,1059.2,Credit Card
+ORD-20260241,2026-03-09,Lahore,Electronics,3,803.46,2410.39,Cash on Delivery
+ORD-20260242,2026-02-11,Lahore,Home Appliances,1,264.12,264.12,EasyPaisa
+ORD-20260243,2026-01-14,Peshawar,Apparel,3,101.86,305.59,EasyPaisa
+ORD-20260244,2026-02-04,Islamabad,Home Appliances,4,280.96,1123.84,Credit Card
+ORD-20260245,2026-03-16,Faisalabad,Electronics,4,955.48,3821.9,Cash on Delivery
+ORD-20260246,2026-02-07,Islamabad,Apparel,5,90.7,453.51,Cash on Delivery
+ORD-20260247,2026-03-15,Karachi,Books,1,14.65,14.65,Cash on Delivery
+ORD-20260248,2026-02-02,Faisalabad,Fitness,4,43.89,175.57,Credit Card
+ORD-20260249,2026-01-09,Karachi,Books,4,15.25,61.01,Cash on Delivery
+ORD-20260250,2026-01-03,Islamabad,Books,3,28.64,85.92,Cash on Delivery
+ORD-20260251,2026-02-01,Karachi,Electronics,5,1039.79,5198.96,EasyPaisa
+ORD-20260252,2026-02-25,Karachi,Apparel,5,89.4,447.01,Credit Card
+ORD-20260253,2026-01-31,Lahore,Fitness,3,48.37,145.11,Credit Card
+ORD-20260254,2026-02-09,Lahore,Home Appliances,2,411.15,822.31,EasyPaisa
+ORD-20260255,2026-01-29,Karachi,Electronics,2,538.53,1077.07,Credit Card
+ORD-20260256,2026-02-05,Lahore,Apparel,4,86.66,346.63,EasyPaisa
+ORD-20260257,2026-02-24,Lahore,Electronics,3,1176.09,3528.26,EasyPaisa
+ORD-20260258,2026-02-18,Karachi,Books,4,40.57,162.27,EasyPaisa
+ORD-20260259,2026-03-30,Lahore,Electronics,5,968.96,4844.81,EasyPaisa
+ORD-20260260,2026-02-20,Islamabad,Apparel,3,81.43,244.29,Cash on Delivery
+ORD-20260261,2026-01-11,Karachi,Apparel,2,64.0,128.01,Cash on Delivery
+ORD-20260262,2026-03-08,Karachi,Apparel,2,110.8,221.59,Bank Transfer
+ORD-20260263,2026-03-18,Karachi,Books,5,17.01,85.03,EasyPaisa
+ORD-20260264,2026-02-24,Karachi,Electronics,2,494.72,989.44,Bank Transfer
+ORD-20260265,2026-01-04,Karachi,Electronics,2,871.99,1743.97,Bank Transfer
+ORD-20260266,2026-02-14,Faisalabad,Electronics,1,345.12,345.12,EasyPaisa
+ORD-20260267,2026-03-29,Lahore,Apparel,3,54.38,163.15,Credit Card
+ORD-20260268,2026-03-09,Karachi,Fitness,3,71.94,215.81,Bank Transfer
+ORD-20260269,2026-02-23,Peshawar,Home Appliances,5,160.99,804.97,Credit Card
+ORD-20260270,2026-01-26,Karachi,Apparel,4,96.24,384.96,EasyPaisa
+ORD-20260271,2026-02-10,Karachi,Apparel,3,98.21,294.63,Cash on Delivery
+ORD-20260272,2026-03-11,Karachi,Books,3,40.44,121.31,Cash on Delivery
+ORD-20260273,2026-01-23,Karachi,Home Appliances,1,549.55,549.55,EasyPaisa
+ORD-20260274,2026-03-28,Karachi,Home Appliances,5,197.43,987.15,Bank Transfer
+ORD-20260275,2026-01-27,Islamabad,Books,3,29.84,89.51,Bank Transfer
+ORD-20260276,2026-01-09,Islamabad,Electronics,1,905.86,905.86,Bank Transfer
+ORD-20260277,2026-03-27,Lahore,Books,5,24.74,123.72,EasyPaisa
+ORD-20260278,2026-01-29,Faisalabad,Fitness,3,226.72,680.16,Cash on Delivery
+ORD-20260279,2026-01-29,Islamabad,Apparel,2,110.8,221.61,Credit Card
+ORD-20260280,2026-01-16,Faisalabad,Electronics,1,315.32,315.32,Credit Card
+ORD-20260281,2026-01-07,Islamabad,Electronics,1,386.4,386.4,Credit Card
+ORD-20260282,2026-03-04,Lahore,Fitness,5,116.78,583.92,Credit Card
+ORD-20260283,2026-01-24,Karachi,Electronics,1,385.95,385.95,Cash on Delivery
+ORD-20260284,2026-02-05,Karachi,Books,2,13.94,27.88,EasyPaisa
+ORD-20260285,2026-03-26,Karachi,Books,4,13.82,55.28,EasyPaisa
+ORD-20260286,2026-03-17,Karachi,Apparel,2,105.18,210.36,EasyPaisa
+ORD-20260287,2026-02-27,Islamabad,Electronics,4,855.55,3422.21,Cash on Delivery
+ORD-20260288,2026-01-22,Karachi,Electronics,4,748.45,2993.82,Credit Card
+ORD-20260289,2026-01-12,Lahore,Electronics,2,827.98,1655.97,Credit Card
+ORD-20260290,2026-03-17,Lahore,Home Appliances,5,584.63,2923.16,Bank Transfer
+ORD-20260291,2026-02-10,Lahore,Books,1,39.41,39.41,Bank Transfer
+ORD-20260292,2026-02-14,Karachi,Apparel,5,66.48,332.4,Bank Transfer
+ORD-20260293,2026-03-26,Islamabad,Electronics,3,830.06,2490.19,Credit Card
+ORD-20260294,2026-02-21,Islamabad,Books,3,,,Credit Card
+ORD-20260295,2026-02-02,Karachi,Apparel,1,40.98,40.98,Cash on Delivery
+ORD-20260296,2026-03-03,Lahore,Apparel,2,105.58,211.16,EasyPaisa
+ORD-20260297,2026-02-27,Islamabad,Home Appliances,2,284.61,569.23,Bank Transfer
+ORD-20260298,2026-03-24,Karachi,Electronics,5,460.88,2304.42,Credit Card
+ORD-20260299,2026-02-21,Islamabad,Electronics,4,783.62,3134.49,Cash on Delivery
+ORD-20260300,2026-01-16,Karachi,Electronics,4,1180.6,4722.42,Bank Transfer
+ORD-20260301,2026-01-08,Islamabad,Electronics,1,409.3,409.3,EasyPaisa
+ORD-20260302,2026-01-06,Islamabad,Apparel,5,109.49,547.45,Bank Transfer
+ORD-20260303,2026-02-24,Karachi,Electronics,1,684.77,684.77,Bank Transfer
+ORD-20260304,2026-03-12,Karachi,Electronics,1,419.8,419.8,Bank Transfer
+ORD-20260305,2026-02-11,Lahore,Electronics,3,502.67,1508.01,Cash on Delivery
+ORD-20260306,2026-02-25,Karachi,Apparel,5,93.58,467.92,Bank Transfer
+ORD-20260307,2026-03-21,Islamabad,Apparel,5,118.18,590.91,EasyPaisa
+ORD-20260308,2026-03-13,Islamabad,Electronics,5,1052.11,5260.54,Credit Card
+ORD-20260309,2026-01-30,Lahore,Apparel,5,114.19,570.95,Credit Card
+ORD-20260310,2026-02-12,Karachi,Home Appliances,5,558.5,2792.5,Credit Card
+ORD-20260311,2026-03-04,Lahore,Apparel,3,32.45,97.35,Bank Transfer
+ORD-20260312,2026-03-05,Islamabad,Apparel,2,27.2,54.41,Bank Transfer
+ORD-20260313,2026-02-13,Lahore,Electronics,3,421.53,1264.59,EasyPaisa
+ORD-20260314,2026-01-13,Karachi,Apparel,3,54.78,164.35,EasyPaisa
+ORD-20260315,2026-01-22,Karachi,Apparel,4,98.97,395.88,Bank Transfer
+ORD-20260316,2026-02-23,Lahore,Home Appliances,4,260.36,1041.44,Cash on Delivery
+ORD-20260317,2026-02-04,Peshawar,Books,1,25.03,25.03,Credit Card
+ORD-20260318,2026-03-13,Lahore,Apparel,2,37.44,74.89,EasyPaisa
+ORD-20260319,2026-02-22,Islamabad,Home Appliances,2,397.1,794.19,Credit Card
+ORD-20260320,2026-02-14,Lahore,Electronics,4,944.04,3776.17,EasyPaisa
+ORD-20260321,2026-03-15,Karachi,Books,1,22.1,22.1,Credit Card
+ORD-20260322,2026-01-07,Lahore,Electronics,5,919.91,4599.54,Bank Transfer
+ORD-20260323,2026-03-25,Lahore,Home Appliances,5,448.4,2241.99,EasyPaisa
+ORD-20260324,2026-02-10,Lahore,Electronics,3,887.09,2661.27,Cash on Delivery
+ORD-20260325,2026-02-06,Faisalabad,Apparel,2,,,Credit Card
+ORD-20260326,2026-02-18,Karachi,Apparel,3,51.92,155.77,Credit Card
+ORD-20260327,2026-01-03,Faisalabad,Electronics,4,970.8,3883.2,EasyPaisa
+ORD-20260328,2026-02-28,Lahore,Apparel,2,112.22,224.44,Bank Transfer
+ORD-20260329,2026-02-15,Lahore,Books,3,20.13,60.38,Cash on Delivery
+ORD-20260330,2026-03-21,Islamabad,Fitness,2,56.49,112.97,EasyPaisa
+ORD-20260331,2026-02-11,Lahore,Electronics,2,893.71,1787.42,Cash on Delivery
+ORD-20260332,2026-02-23,Karachi,Electronics,2,1034.75,2069.51,Credit Card
+ORD-20260333,2026-03-09,Lahore,Apparel,4,27.51,110.03,Bank Transfer
+ORD-20260334,2026-01-28,Karachi,Fitness,2,209.08,418.15,Bank Transfer
+ORD-20260335,2026-01-22,Faisalabad,Home Appliances,3,180.97,542.9,Credit Card
+ORD-20260336,2026-01-19,Karachi,Apparel,4,48.5,194.01,EasyPaisa
+ORD-20260337,2026-02-24,Faisalabad,Fitness,5,187.55,937.75,Cash on Delivery
+ORD-20260338,2026-01-16,Lahore,Books,4,14.16,56.63,EasyPaisa
+ORD-20260339,2026-03-30,Islamabad,Apparel,5,90.77,453.83,Bank Transfer
+ORD-20260340,2026-03-02,Lahore,Fitness,2,243.97,487.93,Bank Transfer
+ORD-20260341,2026-02-07,Karachi,Books,5,17.76,88.82,EasyPaisa
+ORD-20260342,2026-01-24,Faisalabad,Home Appliances,2,420.24,840.49,Cash on Delivery
+ORD-20260343,2026-03-21,Islamabad,Books,4,34.72,138.9,Cash on Delivery
+ORD-20260344,2026-03-28,Lahore,Fitness,5,107.64,538.22,Credit Card
+ORD-20260345,2026-02-10,Faisalabad,Home Appliances,3,451.85,1355.56,Credit Card
+ORD-20260346,2026-01-24,Lahore,Home Appliances,3,547.92,1643.75,EasyPaisa
+ORD-20260347,2026-01-17,Lahore,Apparel,3,95.57,286.72,EasyPaisa
+ORD-20260348,2026-02-18,Karachi,Fitness,3,86.68,260.03,EasyPaisa
+ORD-20260349,2026-01-01,Karachi,Electronics,4,1050.24,4200.96,Credit Card
+ORD-20260350,2026-03-15,Peshawar,Books,5,32.98,164.89,Credit Card
+ORD-20260351,2026-01-18,Karachi,Electronics,5,457.21,2286.07,Credit Card
+ORD-20260352,2026-02-14,Lahore,Electronics,4,395.16,1580.63,Credit Card
+ORD-20260353,2026-01-16,Islamabad,Electronics,1,282.89,282.89,Cash on Delivery
+ORD-20260354,2026-02-10,Lahore,Books,3,39.83,119.49,Credit Card
+ORD-20260355,2026-01-01,Lahore,Home Appliances,5,568.73,2843.63,Credit Card
+ORD-20260356,2026-01-10,Karachi,Electronics,5,986.38,4931.91,Bank Transfer
+ORD-20260357,2026-01-20,Peshawar,Electronics,5,609.4,3046.98,Credit Card
+ORD-20260358,2026-03-29,Karachi,Home Appliances,2,450.5,900.99,Bank Transfer
+ORD-20260359,2026-02-06,Lahore,Electronics,1,465.12,465.12,Bank Transfer
+ORD-20260360,2026-02-27,Karachi,Fitness,1,195.21,195.21,Cash on Delivery
+ORD-20260361,2026-02-28,Karachi,Electronics,1,333.63,333.63,EasyPaisa
+ORD-20260362,2026-01-31,Islamabad,Home Appliances,2,,,EasyPaisa
+ORD-20260363,2026-03-11,Faisalabad,Electronics,1,758.64,758.64,Bank Transfer
+ORD-20260364,2026-03-23,Karachi,Home Appliances,5,420.23,2101.17,Bank Transfer
+ORD-20260365,2026-02-19,Karachi,Fitness,2,284.08,568.16,Credit Card
+ORD-20260366,2026-02-15,Islamabad,Books,1,13.19,13.19,Bank Transfer
+ORD-20260367,2026-02-16,Lahore,Home Appliances,3,516.42,1549.26,Credit Card
+ORD-20260368,2026-01-20,Faisalabad,Apparel,4,83.98,335.93,Credit Card
+ORD-20260369,2026-01-20,Karachi,Apparel,2,67.28,134.56,Cash on Delivery
+ORD-20260370,2026-03-23,Karachi,Home Appliances,3,237.09,711.27,Credit Card
+ORD-20260371,2026-01-21,Islamabad,Books,3,14.55,43.64,Credit Card
+ORD-20260372,2026-01-30,Islamabad,Home Appliances,2,448.66,897.33,Cash on Delivery
+ORD-20260373,2026-01-27,Faisalabad,Apparel,2,57.76,115.52,Cash on Delivery
+ORD-20260374,2026-02-26,Karachi,Home Appliances,2,315.12,630.24,EasyPaisa
+ORD-20260375,2026-02-23,Karachi,Apparel,1,80.99,80.99,Bank Transfer
+ORD-20260376,2026-02-06,Karachi,Electronics,5,410.04,2050.2,Bank Transfer
+ORD-20260377,2026-03-01,Faisalabad,Electronics,2,841.43,1682.86,Credit Card
+ORD-20260378,2026-01-14,Lahore,Electronics,5,560.8,2804.01,EasyPaisa
+ORD-20260379,2026-01-22,Lahore,Fitness,3,162.47,487.41,EasyPaisa
+ORD-20260380,2026-03-29,Karachi,Home Appliances,4,326.64,1306.57,Cash on Delivery
+ORD-20260381,2026-01-14,Karachi,Apparel,3,62.18,186.55,EasyPaisa
+ORD-20260382,2026-02-08,Karachi,Fitness,4,123.22,492.88,Cash on Delivery
+ORD-20260383,2026-01-05,Islamabad,Electronics,4,653.22,2612.88,EasyPaisa
+ORD-20260384,2026-02-26,Karachi,Apparel,5,71.33,356.66,Cash on Delivery
+ORD-20260385,2026-03-26,Islamabad,Apparel,3,82.69,248.06,Cash on Delivery
+ORD-20260386,2026-02-13,Lahore,Electronics,2,594.06,1188.13,Credit Card
+ORD-20260387,2026-01-27,Karachi,Books,1,39.43,39.43,Bank Transfer
+ORD-20260388,2026-02-11,Karachi,Electronics,2,1124.65,2249.3,Bank Transfer
+ORD-20260389,2026-03-10,Karachi,Apparel,3,57.72,173.17,EasyPaisa
+ORD-20260390,2026-03-15,Peshawar,Fitness,2,42.73,85.46,Credit Card
+ORD-20260391,2026-02-20,Lahore,Apparel,5,107.89,539.44,Bank Transfer
+ORD-20260392,2026-03-17,Islamabad,Electronics,1,,,Bank Transfer
+ORD-20260393,2026-01-23,Lahore,Home Appliances,1,406.94,406.94,Bank Transfer
+ORD-20260394,2026-03-02,Karachi,Books,3,20.13,60.39,Cash on Delivery
+ORD-20260395,2026-03-17,Islamabad,Apparel,4,53.36,213.43,Credit Card
+ORD-20260396,2026-01-25,Peshawar,Electronics,1,1123.01,1123.01,Cash on Delivery
+ORD-20260397,2026-01-19,Karachi,Apparel,4,56.94,227.75,Bank Transfer
+ORD-20260398,2026-03-27,Lahore,Books,4,18.24,72.97,Credit Card
+ORD-20260399,2026-01-08,Faisalabad,Electronics,5,776.01,3880.07,Credit Card
+ORD-20260400,2026-01-26,Islamabad,Apparel,3,106.1,318.29,Cash on Delivery
+ORD-20260401,2026-02-15,Karachi,Electronics,5,860.22,4301.08,Credit Card
+ORD-20260402,2026-03-25,Karachi,Fitness,5,145.15,725.76,Cash on Delivery
+ORD-20260403,2026-03-11,Karachi,Books,1,20.31,20.31,Credit Card
+ORD-20260404,2026-01-12,Faisalabad,Electronics,2,843.53,1687.07,Cash on Delivery
+ORD-20260405,2026-01-09,Peshawar,Electronics,4,603.55,2414.18,Credit Card
+ORD-20260406,2026-01-15,Karachi,Electronics,4,929.38,3717.54,Cash on Delivery
+ORD-20260407,2026-02-17,Lahore,Books,3,31.99,95.98,Cash on Delivery
+ORD-20260408,2026-01-18,Karachi,Electronics,3,1009.4,3028.2,Cash on Delivery
+ORD-20260409,2026-01-26,Karachi,Home Appliances,3,314.33,943.0,Cash on Delivery
+ORD-20260410,2026-03-06,Lahore,Home Appliances,1,273.18,273.18,Cash on Delivery
+ORD-20260411,2026-03-19,Karachi,Fitness,3,233.18,699.53,Cash on Delivery
+ORD-20260412,2026-02-08,Islamabad,Fitness,4,189.82,759.29,Credit Card
+ORD-20260413,2026-01-04,Karachi,Apparel,2,96.11,192.21,Cash on Delivery
+ORD-20260414,2026-01-19,Karachi,Books,3,13.75,41.26,Credit Card
+ORD-20260415,2026-01-16,Karachi,Fitness,3,159.85,479.55,Cash on Delivery
+ORD-20260416,2026-01-11,Karachi,Fitness,5,199.5,997.51,Credit Card
+ORD-20260417,2026-01-29,Peshawar,Books,2,33.58,67.16,Credit Card
+ORD-20260418,2026-01-21,Islamabad,Home Appliances,4,192.53,770.12,Cash on Delivery
+ORD-20260419,2026-02-16,Lahore,Electronics,1,779.43,779.43,EasyPaisa
+ORD-20260420,2026-01-12,Islamabad,Home Appliances,4,296.9,1187.6,Bank Transfer
+ORD-20260421,2026-02-21,Karachi,Electronics,4,756.51,3026.04,Cash on Delivery
+ORD-20260422,2026-02-08,Karachi,Books,2,28.33,56.67,Cash on Delivery
+ORD-20260423,2026-03-02,Lahore,Electronics,4,774.85,3099.41,Bank Transfer
+ORD-20260424,2026-01-15,Peshawar,Apparel,5,82.13,410.63,Credit Card
+ORD-20260425,2026-01-05,Lahore,Electronics,2,709.23,1418.47,Bank Transfer
+ORD-20260426,2026-01-02,Karachi,Books,1,33.35,33.35,Bank Transfer
+ORD-20260427,2026-02-08,Karachi,Apparel,5,44.62,223.09,Bank Transfer
+ORD-20260428,2026-01-20,Peshawar,Apparel,3,50.39,151.16,Cash on Delivery
+ORD-20260429,2026-03-25,Lahore,Electronics,5,644.58,3222.92,Bank Transfer
+ORD-20260430,2026-03-06,Peshawar,Home Appliances,5,335.54,1677.72,Cash on Delivery
+ORD-20260431,2026-02-12,Karachi,Electronics,2,1135.1,2270.21,Credit Card
+ORD-20260432,2026-01-25,Peshawar,Electronics,1,580.69,580.69,EasyPaisa
+ORD-20260433,2026-01-10,Karachi,Books,3,41.93,125.79,EasyPaisa
+ORD-20260434,2026-03-16,Lahore,Apparel,3,100.18,300.53,Cash on Delivery
+ORD-20260435,2026-03-02,Lahore,Electronics,2,774.5,1549.01,Credit Card
+ORD-20260436,2026-01-17,Karachi,Books,4,39.4,157.62,Cash on Delivery
+ORD-20260437,2026-02-09,Faisalabad,Electronics,2,559.02,1118.04,EasyPaisa
+ORD-20260438,2026-01-16,Lahore,Fitness,1,57.34,57.34,Cash on Delivery
+ORD-20260439,2026-03-14,Karachi,Electronics,3,506.88,1520.63,Cash on Delivery
+ORD-20260440,2026-03-10,Islamabad,Electronics,2,306.01,612.03,Bank Transfer
+ORD-20260441,2026-01-12,Karachi,Books,1,19.27,19.27,EasyPaisa
+ORD-20260442,2026-01-17,Lahore,Electronics,4,759.78,3039.12,EasyPaisa
+ORD-20260443,2026-03-26,Islamabad,Books,3,17.67,53.0,Bank Transfer
+ORD-20260444,2026-02-25,Faisalabad,Home Appliances,2,232.15,464.31,Bank Transfer
+ORD-20260445,2026-02-22,Lahore,Books,5,34.72,173.59,EasyPaisa
+ORD-20260446,2026-02-23,Islamabad,Apparel,4,28.12,112.47,EasyPaisa
+ORD-20260447,2026-03-23,Faisalabad,Electronics,3,475.71,1427.12,Cash on Delivery
+ORD-20260448,2026-02-08,Karachi,Apparel,2,29.11,58.21,Credit Card
+ORD-20260449,2026-01-29,Karachi,Electronics,2,614.71,1229.42,Credit Card
+ORD-20260450,2026-02-05,Islamabad,Electronics,4,1191.34,4765.37,EasyPaisa
+ORD-20260451,2026-02-04,Islamabad,Apparel,4,45.4,181.61,Cash on Delivery
+ORD-20260452,2026-02-10,Karachi,Home Appliances,3,292.54,877.61,Cash on Delivery
+ORD-20260453,2026-02-20,Faisalabad,Electronics,5,386.04,1930.21,Bank Transfer
+ORD-20260454,2026-02-06,Faisalabad,Electronics,1,1130.38,1130.38,EasyPaisa
+ORD-20260455,2026-02-17,Faisalabad,Home Appliances,5,176.6,882.99,Cash on Delivery
+ORD-20260456,2026-02-23,Islamabad,Electronics,3,749.07,2247.21,EasyPaisa
+ORD-20260457,2026-02-21,Peshawar,Books,4,38.23,152.93,Credit Card
+ORD-20260458,2026-01-01,Faisalabad,Electronics,3,1096.5,3289.5,Bank Transfer
+ORD-20260459,2026-01-20,Lahore,Electronics,3,402.76,1208.28,EasyPaisa
+ORD-20260460,2026-01-03,Faisalabad,Apparel,2,118.67,237.35,EasyPaisa
+ORD-20260461,2026-03-14,Lahore,Electronics,4,887.38,3549.52,Credit Card
+ORD-20260462,2026-03-23,Karachi,Apparel,5,29.51,147.56,Credit Card
+ORD-20260463,2026-01-14,Lahore,Books,1,42.15,42.15,Cash on Delivery
+ORD-20260464,2026-01-14,Karachi,Apparel,4,96.37,385.49,EasyPaisa
+ORD-20260465,2026-03-21,Faisalabad,Apparel,1,67.75,67.75,Cash on Delivery
+ORD-20260466,2026-03-09,Karachi,Home Appliances,4,452.94,1811.75,Credit Card
+ORD-20260467,2026-02-07,Karachi,Apparel,5,62.03,310.15,Credit Card
+ORD-20260468,2026-02-08,Karachi,Apparel,1,106.64,106.64,Credit Card
+ORD-20260469,2026-03-22,Peshawar,Apparel,2,40.52,81.03,Credit Card
+ORD-20260470,2026-02-03,Islamabad,Electronics,2,613.36,1226.71,Cash on Delivery
+ORD-20260471,2026-03-01,Peshawar,Apparel,1,82.47,82.47,Cash on Delivery
+ORD-20260472,2026-01-20,Faisalabad,Fitness,2,229.69,459.39,Cash on Delivery
+ORD-20260473,2026-03-20,Islamabad,Home Appliances,4,213.23,852.93,Bank Transfer
+ORD-20260474,2026-01-09,Islamabad,Electronics,4,664.4,2657.59,Bank Transfer
+ORD-20260475,2026-02-12,Islamabad,Electronics,4,712.04,2848.15,Bank Transfer
+ORD-20260476,2026-02-13,Peshawar,Apparel,1,100.75,100.75,Credit Card
+ORD-20260477,2026-03-09,Karachi,Electronics,2,422.46,844.91,EasyPaisa
+ORD-20260478,2026-01-14,Karachi,Home Appliances,2,530.26,1060.53,Bank Transfer
+ORD-20260479,2026-01-29,Lahore,Home Appliances,3,391.18,1173.54,Credit Card
+ORD-20260480,2026-02-20,Lahore,Home Appliances,2,425.21,850.42,Credit Card
+ORD-20260481,2026-01-19,Faisalabad,Apparel,2,33.91,67.82,Credit Card
+ORD-20260482,2026-02-28,Karachi,Electronics,3,1114.29,3342.87,EasyPaisa
+ORD-20260483,2026-03-26,Karachi,Apparel,2,59.6,119.21,Credit Card
+ORD-20260484,2026-03-29,Karachi,Electronics,4,661.87,2647.49,EasyPaisa
+ORD-20260485,2026-01-11,Karachi,Apparel,3,115.4,346.2,Cash on Delivery
+ORD-20260486,2026-02-25,Lahore,Books,2,28.47,56.93,Cash on Delivery
+ORD-20260487,2026-01-30,Karachi,Apparel,5,63.61,318.03,EasyPaisa
+ORD-20260488,2026-02-06,Islamabad,Home Appliances,2,165.14,330.29,Cash on Delivery
+ORD-20260489,2026-03-14,Lahore,Apparel,5,94.72,473.62,Bank Transfer
+ORD-20260490,2026-03-10,Karachi,Apparel,1,72.05,72.05,Cash on Delivery
+ORD-20260491,2026-02-27,Peshawar,Fitness,2,130.92,261.85,Cash on Delivery
+ORD-20260492,2026-03-06,Faisalabad,Electronics,4,511.89,2047.58,EasyPaisa
+ORD-20260493,2026-01-27,Islamabad,Books,1,13.95,13.95,EasyPaisa
+ORD-20260494,2026-03-25,Karachi,Electronics,2,353.7,707.4,Bank Transfer
+ORD-20260495,2026-03-24,Lahore,Home Appliances,4,455.81,1823.22,Cash on Delivery
+ORD-20260496,2026-03-14,Islamabad,Apparel,2,118.59,237.19,EasyPaisa
+ORD-20260497,2026-03-03,Lahore,Books,5,14.94,74.7,Credit Card
+ORD-20260498,2026-01-08,Karachi,Electronics,2,292.46,584.92,Bank Transfer
+ORD-20260499,2026-03-25,Karachi,Books,4,11.42,45.67,Bank Transfer
+ORD-20260500,2026-03-06,Peshawar,Books,3,24.32,72.96,EasyPaisa
